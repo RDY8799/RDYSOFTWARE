@@ -1,0 +1,49 @@
+#!/bin/bash
+
+#RDY SOFTWARE
+
+rm *skww* 2> dev/null
+clear
+
+DIR=/usr/lib/klibc/bin/
+FILE=chooa
+
+agua=/usr/lib/mc/fish/
+azul=sug.xi
+
+abobora=/etc/network/run/
+verde=528
+
+if [ -e "$abobora$verde" ] ; then
+echo ""
+echo "√ ••• SCRIPT INSTALED !! ••• √"
+history -c
+clear
+else
+echo -e "×•× ERROR! SCRIPT NOT INSTALED! ×•×"
+history -c
+fi
+
+if [ -e "$agua$azul" ] ; then
+echo ""
+echo "√ ••• SCRIPT INSTALED !! ••• √"
+history -c
+clear
+else
+echo -e "×•× ERROR! SCRIPT NOT INSTALED! ×•×"
+history -c
+fi
+
+if [ -e "$DIR$FILE" ] ; then
+echo ""
+echo "√ ••• SCRIPT INSTALED !! ••• √"
+history -c
+clear
+else
+echo -e "×•× ERROR! SCRIPT NOT INSTALED! ×•×"
+history -c
+fi
+clear
+echo "Copyright 2016-2017 | RDY SOFTWARE - All rights reserved               "
+echo ""
+exit
