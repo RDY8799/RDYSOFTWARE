@@ -4,7 +4,7 @@ cd /bin
 
 rm menu
 rm CriarUsuario
-rm ModificarUsuari
+rm ModificarUsuario
 rm RDYSO*
 rm insta*
 echo -e "\033[1;32mRemovendo...\033[0m"
@@ -34,3 +34,4 @@ rm BadVPN
 echo -e "\033[1;32mOk √ \033[0m"
 echo ""
 echo -e "\033[42;1;37mRDY SOFTWARE @RDYSOFTWARE\033[0m"
+rm 404
