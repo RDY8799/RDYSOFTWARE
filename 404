@@ -1,0 +1,30 @@
+#!/bin/bash
+
+cd /bin
+
+rm menu
+rm CriarUsuario
+rm ModificarUsuario
+rm Limite
+rm PassSv
+rm Reiniciar
+rm Banner
+rm Monitor
+rm BloquearIp
+rm ApagarOpen
+rm CriarOpen
+rm CriarTeste
+rm LimparCache
+rm BlockFirewall
+rm ResetFirewall
+rm Backup
+rm RestaurarBackup
+rm AdicionarHost
+rm ApagarHost
+rm SpeedTest
+rm System
+rm DetalhesUsuarios
+rm RemoverLimite
+rm LimparExpirados
+rm BadVPN
+
